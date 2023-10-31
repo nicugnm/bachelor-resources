@@ -25,3 +25,5 @@ https://dl.acm.org/doi/abs/10.1145/3460945.3464951
 https://github.com/logpai/bughub
 
 https://www.sciencedirect.com/science/article/pii/S259000562200042X
+
+https://lingming.cs.illinois.edu/publications/icse2023a.pdf
